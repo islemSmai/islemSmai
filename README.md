@@ -13,5 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-As a highly driven software engineer, I am deeply enthusiastic about designing and implementing innovative solutions. My GitHub features a range of projects that demonstrate my expertise in machine learning and web development. These projects highlight my problem-solving abilities and my commitment to continuous learning and driving technological advancement.
+As a highly driven software engineer, I am deeply enthusiastic about designing and implementing innovative solutions.
+My GitHub features a range of projects that demonstrate my expertise in machine learning and web development. 
+These projects highlight my problem-solving abilities and my commitment to continuous learning and driving technological advancement.
 Please feel free to reach out to me via my [LinkedIn profile](https://www.linkedin.com/in/islem-smai-7aa797195/).
